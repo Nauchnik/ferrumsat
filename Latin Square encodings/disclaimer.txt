@@ -1,0 +1,24 @@
+Disclaimer
+
+ls8_2.cnf - simple encoding for the problem of search for 2 MOLS-8
+
+ls9_2.cnf - simple encoding for the problem of search for 2 MOLS-9
+
+ls9_2_diag.cnf - simple encoding for the problem of search for 2 diagonal MOLS-9
+
+ls10_2.cnf - simple encoding for the problem of search for 2 MOLS-10
+
+ls10_2_diag.cnf - simple encoding for the problem of search for 2 diagonal MOLS-10
+
+ls9_3.cnf - simple encoding for the problem of search for 3 MOLS-9
+
+ls10_3.cnf - simple encoding for the problem of search for 3 MOLS-10
+
+lstve10_2.cnf - transversal encoding for the problem of search for 2 MOLS-10
+
+lstve10_2m.cnf -  modified transversal encoding for the problem of search for 2 MOLS-10
+
+LS_10_3_inc_72.cnf - simple encoding for the problem of search for incomplete MOLS: 1 square should be orthogonal with 2 and 3, and 2 and 3 squares should be orthogonal in at least 72 cells.
+
+LS_10_3_allinc_72.cnf - simple encoding for the problem of search for incomplete MOLS: all squares should be orthogonal in at least 72 cells. 
+
